@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @barbieri97
 - 👀 I’m interested in web development fullstack
-- 🌱 I’m currently learning python, rust and javascript
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning:
+  - Python 
+  - Rust
+  - Javascript
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andrepb636@gmail.com
 
 <!---
